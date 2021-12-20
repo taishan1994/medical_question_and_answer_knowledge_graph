@@ -35,3 +35,6 @@ model init finished ......
 （2）构建查询语句并在neo4j中进行查询得到结果。<br>
 （3）对结果进行格式化并返回。<br>
 3、根据以上流程，可以构建其它领域的基于知识图谱的问答系统，当然，数据的获取是一定的问题。<br>
+
+# 参考
+> https://github.com/liuhuanyong/QASystemOnMedicalKG
